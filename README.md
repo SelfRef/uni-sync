@@ -1,5 +1,5 @@
 ---
-code_name: TM-S_UNISYNC_MOB_XAM_CSH
+code_name: TM-S_UNI-SYNC_MOB_XAM_CSH
 create_date: 2016-08
 author: TM
 author_site: timsmanter.net
