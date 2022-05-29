@@ -8,12 +8,13 @@ editor: Visual Studio Community 2015
 documentation:
 - Polish: /docs/UniSyncProject_Documentation_PL.docx
 license: GPLv3
-status: Archive
+category: [PoC, Study, Utility, Desktop, Mobile]
+dev_status: Archive
 ---
 
 # Description
 
-UniSync is one of my biggest projects so far. The main idea is to introduce new generation and full-featured synchronization app available for many platforms. The core of project is WCF service server app that is controlling entire system build of mobile and desktop clients.
+The main idea is to introduce new generation and full-featured synchronization app available for many platforms. The core of project is WCF service server app that is controlling entire system build of mobile and desktop clients.
 
 # Screenshots
 
