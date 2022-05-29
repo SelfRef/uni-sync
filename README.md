@@ -6,7 +6,7 @@ framework: Xamarin
 locale: pl_PL
 editor: Visual Studio Community 2015
 documentation:
-	- Polish: /docs/UniSyncProject_Documentation_PL.docx
+- Polish: /docs/UniSyncProject_Documentation_PL.docx
 license: GPLv3
 status: Archive
 ---
